@@ -10,6 +10,9 @@ export default function BookList() {
         <li>
             Book 2
         </li>
+        <li>
+          Book 3
+        </li>
       </ul>
     </div>
   )
